@@ -30,7 +30,7 @@ setup (
 
      install_requires = [
          'netaddr==0.7.10',
-         'mako==0.8',
+         'mako==1.2.2',
          'networkx==1.7',
          'configobj==4.7.1',
          'tornado>=3.0.1',
